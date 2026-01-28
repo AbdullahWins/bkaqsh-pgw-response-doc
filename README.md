@@ -14,7 +14,7 @@ Date: January 26, 2026
 
 **API Title:** Grant Token API
 
-**API URL:** `https://tokenized.sandbox.bka.sh/v1.2.0-beta/tokenized/checkout/token/grant`
+**API URL:** `https://tokenized.sandbox.bka.sh/v2/tokenized-checkout/auth/grant-token`
 
 **Request Headers:**
 ```json
